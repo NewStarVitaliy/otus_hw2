@@ -1,7 +1,5 @@
 #include "move_me_out.h"
-
 #include "example.h"
-
 #include <iostream>
 
 
